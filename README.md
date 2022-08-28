@@ -1,3 +1,4 @@
+# Data Analyst $ Business Intelligence Analyst
 - 👋 Hi, I’m Obianonwo Chinedu
 - 👀 I’m interested in Any topic related Data Analysis and Business Intelligence Analytic
 - 🌱 I’m currently learning Amazon Redshift 
