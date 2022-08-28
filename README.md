@@ -1,6 +1,8 @@
 # Data Analyst $ Business Intelligence Analyst
+
 - 👋 Hi, I’m **Obianonwo Chinedu**
 - 👀 I’m interested in Any topic related Data Analysis and Business Intelligence Analytic
+- ✨ I have over 4 year of experience with solving different types of problem with data
 - 🌱 I’m currently learning Amazon Redshift 
 - 💞️ I’m looking to collaborate on any project that is interesting 
 - 📫 How to reach me @ [Email](christianchinedu19@gmail.com)
