@@ -1,4 +1,4 @@
-# Data Analyst $ BI Analyst
+# Data Scientist $ BI Analyst
 - 👋 Hi, I’m **Obianonwo Chinedu**
 - 👀 I’m interested in Any topic related Data Analysis and Data Engineering
 - ✨ I have over 5 year of experience with solving different types of problem with data
